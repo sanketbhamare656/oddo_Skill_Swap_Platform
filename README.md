@@ -70,6 +70,15 @@ Access the application at `http://localhost:3000`.
 - Initiate a chat to exchange knowledge or resources.
 - Establish a connection for future collaboration.
 
+
+###Development
+| Avatar                                                                                                 | Name & GitHub                                                                    | Role                             |
+| ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------------------------------- |
+| <img src="https://avatars.githubusercontent.com/u/177822629?v=4" width="40" height="40" style="border-radius: 50%"/> | [**Sanket Bhamare**](https://github.com/sanketbhamare656)<br/>`@sanketbhamare656` | 🧠 Full Stack / Project Lead     |
+| <img src="https://avatars.githubusercontent.com/u/142675774?v=4" width="40" height="40" style="border-radius: 50%"/>          | [**Shivam Dhumal**](https://github.com/aditi00123)<br/>`@shivamdhumal77`                        | 💻 AI/ML              |
+| <img src="https://avatars.githubusercontent.com/u/195761846?v=4" width="40" height="40" style="border-radius: 50%"/> | [**Aditi Jadhav**](https://github.com/aditi00123)<br/>`@aditi00123` |     |
+
+
 ## Deployment
 
 ### Deploying to Vercel
@@ -98,12 +107,6 @@ We welcome contributions to enhance Skill Swap. To get started:
    ```
 5. Open a pull request.
 
-## License
-Skill Swap is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- The open-source community for providing tools and libraries.
-- Contributors who helped build and maintain the project.
 
 ---
 
